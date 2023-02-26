@@ -1,5 +1,5 @@
 # ML536
-Variaous GAN implementations as part of Machine learning course - 535 at Rutgers 
+Variaous GAN implementations as part of Machine learning course - 536 at Rutgers 
 
 Detailed project reports are attached in the reports folder 
 
